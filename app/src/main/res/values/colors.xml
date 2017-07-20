@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333333</color>
+    <color name="colorPrimaryDark">#333333</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="divider">#888888</color>
+    <color name="icon_unselect">#737373</color>
+    <color name="icon_select">#ff45c01a</color>
+</resources>

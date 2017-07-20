@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_search"
+        android:title="搜索"
+        android:icon="@mipmap/actionbar_search_icon"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:actionViewClass="android.widget.SearchView"/>
+
+    <item
+        android:id="@+id/menu_chat"
+        android:title="发起群聊"
+        android:icon="@mipmap/ofm_group_chat_icon"/>
+    <item
+        android:id="@+id/menu_addfriend"
+        android:title="添加朋友"
+        android:icon="@mipmap/ofm_add_icon"/>
+
+    <item
+        android:id="@+id/menu_scale"
+        android:title="扫一扫"
+        android:icon="@mipmap/ofm_qrcode_icon"/>
+
+    <item
+        android:id="@+id/menu_card"
+        android:title="银行卡"
+        android:icon="@mipmap/ofm_card_icon"/>
+</menu>
